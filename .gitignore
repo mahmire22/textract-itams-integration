@@ -1,7 +1,8 @@
 # Virtual environment
 venv/
+environment/
 
-# Python cache
+# Python cache and compiled files
 __pycache__/
 *.pyc
 
@@ -11,3 +12,6 @@ __pycache__/
 # IDE config files
 .idea/
 .vscode/
+
+# macOS system file
+.DS_Store
