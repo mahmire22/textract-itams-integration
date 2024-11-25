@@ -11,3 +11,9 @@ __pycache__/
 # IDE config files
 .idea/
 .vscode/
+
+
+environment/
+*.pyc
+__pycache__/
+.DS_Store
